@@ -1,4 +1,4 @@
-<h2 align="center">BMI Calculator</h2>
+<h2 align="center">Salary Calculator</h2>
 
 <div align="center">
 

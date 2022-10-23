@@ -55,6 +55,8 @@ int main(int argc, char **argv)
     cout << "********************************************************************************************************" << endl;
 
     // end main function
+    delete[] monthsArray;
+    monthsArray = NULL;
     system("pause");
     return 0;
 }
